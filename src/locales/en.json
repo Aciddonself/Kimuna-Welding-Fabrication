@@ -1,0 +1,215 @@
+{
+  "slogan": "QUALITY WELDING AND METAL SERVICES",
+  "brandLine": "KIMUNA — Bweyale, Kiryandongo",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "why": "Why Us",
+    "projects": "Projects",
+    "training": "Training",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "catalogue": "Furniture",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "quote": "Get a Free Quote"
+  },
+  "hero": {
+    "eyebrow": "Diika Road · Bweyale Town Council · Kiryandongo",
+    "line1": "Steel, welded",
+    "line2": "to last.",
+    "lead": "Kimuna Welding & Fabrication builds, repairs and trains — straightforward metalwork and civil jobs done with care and on time across Kiryandongo and nearby.",
+    "cta1": "Get a Free Quote",
+    "cta2": "Chat on WhatsApp",
+    "scroll": "Scroll to see more",
+    "stat1": "Projects delivered",
+    "stat2": "Years on the job",
+    "stat3": "Trainees trained"
+  },
+  "pillars": {
+    "expertise": "Expertise",
+    "fabrication": "Fabrication",
+    "welding": "Welding",
+    "quality": "Quality"
+  },
+  "about": {
+    "label": "About us",
+    "title": "Pragmatic welding, done right.",
+    "body1": "Kimuna Welding & Fabrication is based on Diika Road, Bweyale Town Council in Kiryandongo District. We're a down-to-earth team of welders, fabricators, fitters and civil workers that takes on steel structures, general fabrication, industrial gas supply, drilling support and hands-on training.",
+    "body2": "We don't overcomplicate things. We listen, measure carefully, and build to last. Whether it's a gate, a warehouse frame or a full training cohort, we keep things straightforward and reliable.",
+    "missionLabel": "Our Mission",
+    "mission": "To deliver safe, durable and fairly priced metalwork and construction services while equipping young people with practical skills for real jobs.",
+    "visionLabel": "Our Vision",
+    "vision": "A trusted local partner known for honest work, dependable timelines and skilled people that help our communities grow.",
+    "valuesLabel": "Our Values",
+    "values": ["Honesty & integrity", "Safety first", "Quality you can see", "Pragmatic problem-solving", "Investing in people"],
+    "counters": {
+      "projects": "Projects completed",
+      "years": "Years of experience",
+      "students": "Trainees trained",
+      "clients": "Happy clients"
+    }
+  },
+  "services": {
+    "label": "02 — Services",
+    "title": "Eight services. One standard.",
+    "lead": "From a 40-tonne warehouse frame to a single replacing door hinge — the same workshop, the same spec sheet.",
+    "more": "View service details",
+    "close": "Close",
+    "enquire": "Enquire about this service",
+    "items": {
+      "steel": {
+        "title": "Steel Structure Construction",
+        "desc": "Design, fabrication and erection of portal frames, warehouse sheds, roofing structures and industrial platforms.",
+        "bullets": ["Fabrication drawings & load calculation", "Portal frames, purlins, bracing", "Bolted or welded site erection", "Roofing, cladding & lean-tos"]
+      },
+      "welding": {
+        "title": "General Welding & Fabrication",
+        "desc": "MIG, arc and gas welding for gates, doors, tanks, balconies, canopies and custom steel assemblies.",
+        "bullets": ["Gates, grilles & security doors", "Stainless steel water tanks", "Canopies, balconies & staircases", "Repair and reinforcement work"]
+      },
+      "training": {
+        "title": "Technical Training",
+        "desc": "Hands-on welding and fabrication courses for school leavers, artisans and site teams — theory, practice, certification.",
+        "bullets": ["Beginner, intermediate & advanced welds", "Blueprint reading and measurement", "Workshop safety & tool handling", "Certification of competence"]
+      },
+      "gas": {
+        "title": "Gas Supply",
+        "desc": "Reliable supply and refilling of oxygen, acetylene and LPG cylinders with regulators, hoses and cutting sets.",
+        "bullets": ["Oxygen, acetylene & LPG refills", "Regulators, hoses, cutting nozzles", "Delivery within Kiryandongo", "Cylinder safety inspection"]
+      },
+      "safety": {
+        "title": "Health & Safety Training",
+        "desc": "Site-safety induction, PPE discipline, fire awareness and risk assessment training for companies and institutions.",
+        "bullets": ["Worksite induction programmes", "PPE, fire & first-aid awareness", "Risk assessment & toolbox talks", "Certificates for participants"]
+      },
+      "civil": {
+        "title": "Civil Engineering Work",
+        "desc": "Drainage, culverts, foundations, slab works, water tanks and general building structures executed to plan.",
+        "bullets": ["Drainage & culvert construction", "Foundations and slab casting", "Reinforced concrete structures", "Site preparation & grading"]
+      },
+      "drilling": {
+        "title": "Drilling Engineering",
+        "desc": "Borehole drilling support, survey, pump installation and casing works for homes, schools and farms.",
+        "bullets": ["Borehole drilling & survey", "Pump installation & commissioning", "Casing, flushing & testing", "Water point rehabilitation"]
+      },
+      "furniture": {
+        "title": "Furniture Dealings",
+        "desc": "Sales, custom-made and fabricated metal and general furniture for offices, schools, hotels and homes.",
+        "bullets": ["Custom steel & wood furniture", "Office desks, chairs & shelves", "Restaurant & school furniture", "Repairs, re-upholstery & delivery"]
+      }
+    }
+  },
+  "why": {
+    "label": "03 — Why choose us",
+    "title": "Five reasons the quote comes back to us.",
+    "items": {
+      "expertise": { "title": "Expertise", "desc": "Welders, fitters and engineers with years on Ugandan sites — certified, supervised and continuously trained." },
+      "quality": { "title": "Quality", "desc": "Grade-checked steel, clean penetration welds and a finish inspected before anything leaves the yard." },
+      "safety": { "title": "Safety", "desc": "PPE, permits and toolbox talks on every job. No shortcut is worth an injury." },
+      "reliability": { "title": "Reliability", "desc": "Agreed dates are kept. We communicate early if anything on site changes." },
+      "pricing": { "title": "Affordable pricing", "desc": "Itemised, transparent quotes in UGX — no hidden margins, no surprise additions." }
+    }
+  },
+  "projects": {
+    "label": "04 — Projects",
+    "title": "Built, welded, delivered.",
+    "lead": "A selection of structures, fabrications and works completed for clients across Kiryandongo and central Uganda.",
+    "filters": { "all": "All", "steel": "Steel Structures", "fabrication": "Fabrication", "furniture": "Furniture", "civil": "Civil Works" },
+    "open": "Open project",
+    "empty": "No published projects in this category yet.",
+    "close": "Close gallery"
+  },
+  "training": {
+    "label": "05 — Training",
+    "title": "Skills that leave with you.",
+    "lead": "Two programmes run from our Bweyale workshop — practical, supervised and open to school leavers, artisans and company teams.",
+    "techTitle": "Technical Training",
+    "techDesc": "Welding, fabrication, blueprint reading and workshop practice. Individuals and corporate intakes welcome.",
+    "techPoints": ["Arc, MIG and gas welding", "Measurement & drawing reading", "Machine and tool maintenance", "Certificate of competence"],
+    "safetyTitle": "Health & Safety Training",
+    "safetyDesc": "Worksite induction, PPE discipline, fire and first-aid awareness for teams operating on active sites.",
+    "safetyPoints": ["Hazard identification & risk assessment", "PPE standards and use", "Fire safety and first aid", "Toolbox talk facilitation"],
+    "duration": "Duration",
+    "mode": "Mode",
+    "durationValue": "2–6 weeks",
+    "modeValue": "On-site, Bweyale",
+    "enquire": "Enquire about training",
+    "spots": "Cohort seats filling fast"
+  },
+  "testimonials": {
+    "label": "06 — Testimonials",
+    "title": "What clients say.",
+    "prev": "Previous testimonial",
+    "next": "Next testimonial",
+    "of": "of"
+  },
+  "contact": {
+    "label": "07 — Contact",
+    "title": "Tell us what you need built.",
+    "lead": "Send the details and we respond the same working day — or reach us directly on the channels below.",
+    "visit": "Workshop",
+    "address": "Diika Road, Bweyale Town Council, Kiryandongo District, Uganda",
+    "call": "Call / WhatsApp",
+    "email": "Email",
+    "hoursLabel": "Working hours",
+    "hours": "Mon – Sat · 08:00 – 18:00",
+    "mapTitle": "KIMUNA workshop location — Diika Road, Bweyale Town Council, Kiryandongo District",
+    "mapLink": "Open in Google Maps",
+    "whatsapp": "Chat on WhatsApp",
+    "callNow": "Call now",
+    "formTitle": "Request a free quote",
+    "fields": {
+      "name": "Full name",
+      "phone": "Phone number",
+      "email": "Email address",
+      "service": "Service required",
+      "message": "Tell us about the project"
+    },
+    "placeholder": { "name": "e.g. Mary Atim", "phone": "+256 7XX XXX XXX", "email": "you@example.com", "message": "Sizes, quantities, location, timeline…" },
+    "select": "Select a service",
+    "submit": "Send request",
+    "sending": "Sending…",
+    "required": "required",
+    "errors": {
+      "name": "Please enter your full name (at least 3 characters).",
+      "phone": "Please enter a valid Ugandan phone number.",
+      "email": "Please enter a valid email address.",
+      "service": "Please choose a service.",
+      "message": "Please describe your project (at least 10 characters)."
+    },
+    "successTitle": "Request received",
+    "successBody": "Thank you — your request is with our team. We will contact you on the number you provided.",
+    "successAgain": "Send another request"
+  },
+  "catalogue": {
+    "label": "Furniture catalogue",
+    "title": "Metal & general furniture",
+    "lead": "In-stock and made-to-order pieces. Prices in UGX — order directly on WhatsApp.",
+    "order": "Order via WhatsApp",
+    "inStock": "In stock",
+    "outOfStock": "Made to order",
+    "all": "All categories",
+    "filters": { "all": "All", "office": "Office", "home": "Home", "hospitality": "Hospitality", "school": "School" },
+    "empty": "No products in this category yet.",
+    "back": "Back to home"
+  },
+  "footer": {
+    "tagline": "Steel structures, fabrication, training, gas supply and civil works from Bweyale, Kiryandongo.",
+    "quickLinks": "Quick links",
+    "servicesList": "Services",
+    "reach": "Reach us",
+    "follow": "Follow us",
+    "rights": "All rights reserved.",
+    "admin": "Admin dashboard",
+    "note": "Built on Diika Road, Bweyale Town Council, Kiryandongo District."
+  },
+  "ui": {
+    "backToTop": "Back to top",
+    "whatsapp": "Chat on WhatsApp",
+    "loading": "Loading…",
+    "theme": "Toggle light and dark mode"
+  }
+}

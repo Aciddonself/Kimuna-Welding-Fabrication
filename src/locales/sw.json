@@ -1,0 +1,215 @@
+{
+  "slogan": "QUALITY WELDING AND METAL SERVICES",
+  "brandLine": "KIMUNA — Bweyale, Kiryandongo",
+  "nav": {
+    "home": "Nyumbani",
+    "about": "Kuhusu",
+    "services": "Huduma",
+    "why": "Kwa Nini Sisi",
+    "projects": "Miradi",
+    "training": "Mafunzo",
+    "testimonials": "Ushuhuda",
+    "contact": "Wasiliana",
+    "catalogue": "Samani",
+    "menu": "Menyu",
+    "close": "Funga",
+    "language": "Lugha",
+    "quote": "Pata Bei Bure"
+  },
+  "hero": {
+    "eyebrow": "Barabara ya Diika · Manispaa ya Bweyale · Kiryandongo",
+    "line1": "Chuma, kimeungwa",
+    "line2": "ili kudumu.",
+    "lead": "Kimuna Welding & Fabrication hujenga, kukarabati na kufundisha — kazi za chuma na ujenzi zinazofanywa kwa uangalifu na kwa wakati katika Kiryandongo na maeneo jirani.",
+    "cta1": "Pata Bei Bure",
+    "cta2": "Ongea kwa WhatsApp",
+    "scroll": "Tembeza kuona zaidi",
+    "stat1": "Miradi iliyokamilika",
+    "stat2": "Miaka kazini",
+    "stat3": "Wanafunzi waliotunzwa mafunzo"
+  },
+  "pillars": {
+    "expertise": "Utaalamu",
+    "fabrication": "Uundaji",
+    "welding": "Kulemka",
+    "quality": "Ubora"
+  },
+  "about": {
+    "label": "Kuhusu sisi",
+    "title": "Kazi ya kulemka inayofanywa kwa uwazi na kwa bidii.",
+    "body1": "Kimuna Welding & Fabrication tuko kwenye barabara ya Diika, Manispaa ya Bweyale, Wilaya ya Kiryandongo. Sisi ni timu ya wafundi wa kulemka, watengenezaji, wasakinishaji na wafanyakazi wa ujenzi inayochukua kazi za miundo ya chuma, uundaji, usambazaji wa gesi viwandani, kusaidia kuchimba visima na kufundisha kwa vitendo.",
+    "body2": "Hatujifanyi kuwa ngumu zaidi. Tunasikiliza, tunapima kwa makini, na tunajenga ili kudumu. Iwe ni lango, muundo wa ghala au kozi ya mafunzo, tunafanya kazi kwa urahisi na kwa kuaminika.",
+    "missionLabel": "Dhamira yetu",
+    "mission": "Kutoa huduma za kulemka na ujenzi salama, zenye kudumu na bei nafuu huku tukimpa vijana ujuzi wa vitendo kwa ajira halisi.",
+    "visionLabel": "Maono yetu",
+    "vision": "Kuwa mshirika wa kuaminika anayejulikana kwa kazi ya haki, muda unaofuatwa na watu wenye ujuzi wanaosaidia jamii yetu kukua.",
+    "valuesLabel": "Maadili yetu",
+    "values": ["Ukweli na uaminifu", "Usalama kwanza", "Ubora unaoonekana", "Kutafuta suluhisho kwa vitendo", "Kuwekeza kwa watu"],
+    "counters": {
+      "projects": "Miradi iliyokamilika",
+      "years": "Miaka ya uzoefu",
+      "students": "Wanafunzi waliotunzwa mafunzo",
+      "clients": "Wateja wenye furaha"
+    }
+  },
+  "services": {
+    "label": "02 — Huduma",
+    "title": "Huduma nane. Kiwango kimoja.",
+    "lead": "Kutoka ghulah ya godoro la tani 40 hadi kubadilisha mlango mmoja — warsha ileile, daftari lile la kiwango.",
+    "more": "Angalia maelezo ya huduma",
+    "close": "Funga",
+    "enquire": "Uliza kuhusu huduma hii",
+    "items": {
+      "steel": {
+        "title": "Ujenzi wa Miundo ya Chuma",
+        "desc": "Usanifu, utengenezaji na usimamishaji wa milango ya portal, migahawa ya ghulah, miundo ya paa na jukwaa za viwanda.",
+        "bullets": ["Mchoro wa muundo na hesabu za mzigo", "Portal, purlins, bracing", "Kuunganisha kwa bolti au welding", "Paa, cladding na vyumba vya ziada"]
+      },
+      "welding": {
+        "title": "Kulemka na Uundaji Jumla",
+        "desc": "Welding ya MIG, arc na gesi kwa milango, mabomba, matanki, roshani, kanopy na mifumo maalum ya chuma.",
+        "bullets": ["Milango, grilles na milango ya usalama", "Matanki ya chuma cha pamba", "Kanopy, roshani na ngazi", "Kazi za marekebisho na kuimarisha"]
+      },
+      "training": {
+        "title": "Mafunzo ya Kitaalamu",
+        "desc": "Mafunzo ya vitendo ya kulemka na uundaji kwa waliomaliza shule, mafundi na timu za tovuti — nadharia, vitendo, uthibitisho.",
+        "bullets": ["Viwango vya kulemka: mwanzo hadi juu", "Kusoma ramani na vipimo", "Usalama wa warsha na vifaa", "Vyeti vya uwezo"]
+      },
+      "gas": {
+        "title": "Usambazaji wa Gesi",
+        "desc": "Usambazaji wa kuaminika wa silinda za oksijeni, asetilini na LPG pamoja na regulators, hose na vifaa vya kukata.",
+        "bullets": ["Kujaza oksijeni, asetilini na LPG", "Regulators, hose, nozzle", "Usambazaji ndani ya Kiryandongo", "Ukaguzi wa usalama wa silinda"]
+      },
+      "safety": {
+        "title": "Mafunzo ya Afya na Usalama",
+        "desc": "Mafunzo ya usalama wa tovuti, matumizi ya PPE, tahadhari ya moto na tathmini ya hatari kwa kampuni na taasisi.",
+        "bullets": ["Mipango ya utambulisho wa tovuti", "PPE, moto na huduma za kwanza", "Tathmini ya hatari na mazungumzo", "Vyeti kwa washiriki"]
+      },
+      "civil": {
+        "title": "Kazi za Uhandisi wa Ujenzi",
+        "desc": "Mifereji, madaraja midogo, msingi, slabi, matanki ya maji na miundo ya jumla ya ujenzi kulingana na mpango.",
+        "bullets": ["Ujenzi wa mifereji na madaraja", "Misingi na kumimina slabi", "Miundo ya sarufi iliyothibitishwa", "Uandaji na kusawazisha tovuti"]
+      },
+      "drilling": {
+        "title": "Uhandisi wa Kuchimba",
+        "desc": "Msaada wa kuchimba visima vya maji, uchunguzi, kuweka pampu na kazi za casing kwa nyumba, shule na mashamba.",
+        "bullets": ["Uchunguzi na kuchimba visima", "Kuweka na kuanzisha pampu", "Casing, kusafisha na majaribio", "Kurekebisha maeneo ya maji"]
+      },
+      "furniture": {
+        "title": "Biashara za Samani",
+        "desc": "Uuzaji, kufanya kwa oda na utengenezaji wa samani za chuma na jumla kwa ofisi, shule, hoteli na nyumba.",
+        "bullets": ["Samani maalum za chuma na mbao", "Meza, viti na rafu za ofisi", "Samani za hoteli na shule", "Marekebisho na usafirishaji"]
+      }
+    }
+  },
+  "why": {
+    "label": "03 — Kwa nini sisi",
+    "title": "Sababu tano kwa nini bei hurudi kwetu.",
+    "items": {
+      "expertise": { "title": "Utaalamu", "desc": "Wafundi na maafisa wa uhandisi wenye uzoefu wa tovuti za Uganda — waliothibitishwa na kufundishwa mara kwa mara." },
+      "quality": { "title": "Ubora", "desc": "Chuma kilichokaguliwa, ulemaji safi na ubora unaopimwa kabla ya kitu kuondoka katika eneo letu." },
+      "safety": { "title": "Usalama", "desc": "PPE, ruhusa na mazungumzo ya usalama kila kazi. Hakuna njia ya mfupi inayostahili majeraha." },
+      "reliability": { "title": "Kuaminika", "desc": "Tarehe zilizokubaliwa hufuatwa. Tunazungumza mapema kama kitu kibadilika tovutini." },
+      "pricing": { "title": "Bei nafuu", "desc": "Bei za wazi kwa awamu kwa UGX — hakuna faida zilizofichwa, hakuna ongezeko la ghafla." }
+    }
+  },
+  "projects": {
+    "label": "04 — Miradi",
+    "title": "Imejengwa, imelemkwa, imefika.",
+    "lead": "Chaguo la miundo, uundaji na kazi zilizokamilishwa kwa wateja katika Kiryandongo na Uganda ya kati.",
+    "filters": { "all": "Zote", "steel": "Miundo ya Chuma", "fabrication": "Uundaji", "furniture": "Samani", "civil": "Kazi za Ujenzi" },
+    "open": "Fungua mradi",
+    "empty": "Bado hakuna miradi iliyochapishwa katika kundi hili.",
+    "close": "Funga picha"
+  },
+  "training": {
+    "label": "05 — Mafunzo",
+    "title": "Ujuzi unaondoka nawe.",
+    "lead": "Mipango miwili inaendeshwa katika warsha yetu ya Bweyale — ya vitendo, yenye usimamizi na wazi kwa waliomaliza shule, mafundi na timu za kampuni.",
+    "techTitle": "Mafunzo ya Kitaalamu",
+    "techDesc": "Kulemka, uundaji, kusoma ramani na mazoezi ya warsha. Waelekezwaji na kampuni wanakaribishwa.",
+    "techPoints": ["Kulemka kwa arc, MIG na gesi", "Vipimo na kusoma mchoro", "Matengenezo ya mashine", "Cheti cha uwezo"],
+    "safetyTitle": "Mafunzo ya Afya na Usalama",
+    "safetyDesc": "Utambulisho wa tovuti, matumizi ya PPE, tahadhari ya moto na huduma za kwanza kwa timu zinazofanya kazi tovutini.",
+    "safetyPoints": ["Kutambua hatari na tathmini", "Viwango vya PPE", "Usalama moto na huduma za kwanza", "Kuendesha mazungumzo ya usalama"],
+    "duration": "Muda",
+    "mode": "Aina",
+    "durationValue": "Wiki 2–6",
+    "modeValue": "Katika tovuti, Bweyale",
+    "enquire": "Uliza kuhusu mafunzo",
+    "spots": "Viti vya kikundi vinajaa haraka"
+  },
+  "testimonials": {
+    "label": "06 — Ushuhuda",
+    "title": "Wateja wanasema nini.",
+    "prev": "Ushuhuda uliopita",
+    "next": "Ushuhuda ujao",
+    "of": "kati ya"
+  },
+  "contact": {
+    "label": "07 — Wasiliana",
+    "title": "Tufahamishe unachotaka kujengwa.",
+    "lead": "Tutuma maelezo na tutajibu siku ileile ya kazi — au tuweze moja kwa moja kupitia njia hapa chini.",
+    "visit": "Warsha",
+    "address": "Diika Road, Manispaa ya Bweyale, Wilaya ya Kiryandongo, Uganda",
+    "call": "Piga simu / WhatsApp",
+    "email": "Barua pepe",
+    "hoursLabel": "Saa za kazi",
+    "hours": "Jumatatu – Jumamosi · 08:00 – 18:00",
+    "mapTitle": "Eneo la warsha ya KIMUNA — Diika Road, Bweyale, Kiryandongo",
+    "mapLink": "Fungua kwenye Google Maps",
+    "whatsapp": "Ongea kwa WhatsApp",
+    "callNow": "Piga sasa",
+    "formTitle": "Omba bei bure",
+    "fields": {
+      "name": "Jina kamili",
+      "phone": "Namba ya simu",
+      "email": "Anwani ya barua pepe",
+      "service": "Huduma inayohitajika",
+      "message": "Tufahamishe kuhusu mradi"
+    },
+    "placeholder": { "name": "mfano: Mary Atim", "phone": "+256 7XX XXX XXX", "email": "wewe@mfano.com", "message": "Vipimo, idadi, eneo, muda…" },
+    "select": "Chagua huduma",
+    "submit": "Tuma ombi",
+    "sending": "Inatuma…",
+    "required": "inahitajika",
+    "errors": {
+      "name": "Tafadhali andika jina lako kamili (herufi 3 au zaidi).",
+      "phone": "Tafadhali weka namba sahihi ya simu ya Uganda.",
+      "email": "Tafadhali weka barua pepe sahihi.",
+      "service": "Tafadhali chagua huduma.",
+      "message": "Tafadhali eleza mradi wako (herufi 10 au zaidi)."
+    },
+    "successTitle": "Ombi limepokelewa",
+    "successBody": "Asante — ombi lako limefika kwa timu yetu. Tutawasiliana nawe kwa namba uliyotoa.",
+    "successAgain": "Tuma ombi jingine"
+  },
+  "catalogue": {
+    "label": "Orodha ya samani",
+    "title": "Samani za chuma na jumla",
+    "lead": "Bidhaa zilizo stock na zinazotengenezwa kwa oda. Bei kwa UGX — oda moja kwa moja kwa WhatsApp.",
+    "order": "Oda kwa WhatsApp",
+    "inStock": "Zipo stock",
+    "outOfStock": "Kufanywa kwa oda",
+    "all": "Makundi yote",
+    "filters": { "all": "Zote", "office": "Ofisi", "home": "Nyumbani", "hospitality": "Hoteli", "school": "Shule" },
+    "empty": "Hakuna bidhaa katika kundi hili bado.",
+    "back": "Rudi nyumbani"
+  },
+  "footer": {
+    "tagline": "Miundo ya chuma, uundaji, mafunzo, usambazaji wa gesi na kazi za ujenzi kutoka Bweyale, Kiryandongo.",
+    "quickLinks": "Viungo vya haraka",
+    "servicesList": "Huduma",
+    "reach": "Wasiliana nasi",
+    "follow": "Tuifuatie",
+    "rights": "Haki zote zimehifadhiwa.",
+    "admin": "Dashibodi ya mtawala",
+    "note": "Imejengwa katika Diika Road, Manispaa ya Bweyale, Wilaya ya Kiryandongo."
+  },
+  "ui": {
+    "backToTop": "Rudi juu",
+    "whatsapp": "Ongea kwa WhatsApp",
+    "loading": "Inapakia…",
+    "theme": "Badilisha mandhari ya mwanga na giza"
+  }
+}
