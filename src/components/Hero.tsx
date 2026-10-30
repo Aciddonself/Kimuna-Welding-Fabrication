@@ -12,12 +12,15 @@ export default function Hero() {
   return (
     <section id="home" className="relative isolate min-h-[100svh] overflow-hidden bg-[#071a33]">
       {/* photographic base */}
-      <img
+      <motion.img
         src="images/hero-welding.jpg"
         alt="KIMUNA welder sending a shower of sparks while joining a steel I-beam in the Bweyale workshop"
         className="absolute inset-0 h-full w-full object-cover object-[65%_center] opacity-70"
         fetchPriority="high"
         decoding="async"
+        initial={{ scale: 1.05 }}
+        animate={{ scale: 1.12 }}
+        transition={{ duration: 20, repeat: Infinity, repeatType: "reverse", ease: "easeInOut" }}
       />
       <div
         className="absolute inset-0 bg-[linear-gradient(105deg,rgba(7,26,51,0.96)_0%,rgba(11,37,69,0.86)_38%,rgba(30,90,168,0.55)_72%,rgba(77,163,255,0.35)_100%)]"
